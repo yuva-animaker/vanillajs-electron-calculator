@@ -1,0 +1,33 @@
+html {
+    height: 100%;
+  }
+  
+  body {
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    background-color: #07031a;
+  }
+  
+  #tables button {
+    background-color: #ffdc34;
+    color: white;
+    font-size: 50px;
+    font-weight: bold;
+    border: 1px solid #ffdc34;
+    outline: none;
+    cursor: pointer;
+    border-radius: 8px;
+    padding: 10px;
+    margin: 5px;
+  }
+  
+  #solution{
+    width: 100%;
+    height: 30px;
+    background-color: #12cad6;
+    color:#07031a;
+    border: 0;
+  }
